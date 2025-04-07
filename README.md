@@ -1,1 +1,1 @@
-# news-RSS-collector
+# NewsPulse
